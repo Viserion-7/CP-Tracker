@@ -42,5 +42,7 @@ This repository contains my solutions to Codeforces and LeetCode questions.
 | 148       | Sort List                            | 14-01-2026|
 | 21        | Merge Two Sorted Lists               | 14-01-2026|
 | 143       | Reorder List                         | 14-01-2026|
+| 343       | String Compression                   | 14-01-2026|
+
 
 
